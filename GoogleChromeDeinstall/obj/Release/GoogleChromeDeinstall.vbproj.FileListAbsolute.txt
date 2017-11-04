@@ -1,0 +1,9 @@
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Release\GoogleChromeDeinstall.exe.config
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Release\GoogleChromeDeinstall.exe
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Release\GoogleChromeDeinstall.pdb
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Release\GoogleChromeDeinstall.xml
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Release\GoogleChromeDeinstall.Resources.resources
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Release\GoogleChromeDeinstall.vbproj.GenerateResource.Cache
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Release\GoogleChromeDeinstall.exe
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Release\GoogleChromeDeinstall.xml
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Release\GoogleChromeDeinstall.pdb

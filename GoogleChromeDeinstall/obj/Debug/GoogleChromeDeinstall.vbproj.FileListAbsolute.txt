@@ -1,0 +1,10 @@
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Debug\GoogleChromeDeinstall.vbprojResolveAssemblyReference.cache
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Debug\GoogleChromeDeinstall.Resources.resources
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Debug\GoogleChromeDeinstall.vbproj.GenerateResource.Cache
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Debug\GoogleChromeDeinstall.exe.config
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Debug\GoogleChromeDeinstall.exe
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Debug\GoogleChromeDeinstall.pdb
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\bin\Debug\GoogleChromeDeinstall.xml
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Debug\GoogleChromeDeinstall.exe
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Debug\GoogleChromeDeinstall.xml
+E:\Development\GoogleChromeDeinstall\GoogleChromeDeinstall\obj\Debug\GoogleChromeDeinstall.pdb
